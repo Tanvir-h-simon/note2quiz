@@ -4,6 +4,8 @@ Turn photos of your handwritten or printed notes into a short summary, an audio 
 
 Built with [Streamlit](https://streamlit.io) and Google's [Gemini API](https://ai.google.dev).
 
+**Live demo:** [note2quiz-phitron.streamlit.app](https://note2quiz-phitron.streamlit.app/)
+
 ## Features
 
 - **Note summary**: upload up to 3 images or PDFs of your notes and get a clear summary in under 100 words, organized with headings and bullet points.
