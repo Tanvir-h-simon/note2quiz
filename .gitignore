@@ -1,0 +1,22 @@
+# Secrets (API keys)
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated audio
+*.mp3
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
